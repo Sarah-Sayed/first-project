@@ -1,0 +1,513 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+
+    background-color: none;
+}
+.part1
+{
+    background-image: url(3bb40988b874db3e06d1b717e7b90d89.jpg) ;
+    background-size: 100% 100%;
+    opacity: 0.9;
+    height: 700px;
+    background-repeat: no-repeat; 
+    background-color: 0;
+}
+
+
+.part11 ul
+{
+    list-style-type: none;
+    padding-top: 20px;
+    padding-right: 10px;
+ 
+}
+.part11 ul li
+{
+    list-style-type: none;
+    float: right;
+    padding:4px ;
+}
+.part11 ul li a
+{
+    color:#80002a;
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+    font-family: 'Coda Caption', sans-serif;
+    
+}
+.part11 button
+{
+   background-color: white;
+    color:#80002a ;
+    float: right;
+    border: 0;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 5px 5px;
+    font-family: 'Coda Caption', sans-serif;
+}
+.part11 button:hover
+{
+    background-color: #003366;
+    color: whitesmoke;
+    float: right;
+    border: 0;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 5px 5px;
+    font-family: 'Coda Caption', sans-serif;
+}
+.part1 .word
+{
+    float: left;
+}
+.word
+{
+    float: left;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+.letter
+{
+    border: 1px solid crimson;
+    padding: 3px;
+    -webkit-border-radius: 200px;
+    font-size: 45px;
+}
+
+.part12
+{
+    text-align: center;
+    color: black;
+    padding: 100px 100px;
+}
+.part12 h1
+{
+    font-size: 30px;
+    font-family: cursive; 
+    
+    
+}
+.part12 p
+{
+    font-size: 50px;
+    font-family: cursive;
+    padding: 30px 30px;
+    padding: 30px 30px;
+    
+}
+.part12 button
+{
+    border: 0;
+    background-color:#009999;
+    color:black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Righteous', cursive;
+    padding:30px;     
+}
+.part12 button:hover
+{
+    border: 0;
+    background-color:white;
+    color:#80002a;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Righteous', cursive;
+}
+
+
+
+
+.part2
+{
+    
+    background-color:white;
+    text-align: left;
+    font-size: 25px;
+    text-decoration-color: black;
+    color: black;
+     width:25%;
+   float:left;
+    padding: 30px 30px;
+       
+}
+
+.img1
+{
+    width: 10%;
+    float:left;
+    padding-bottom: 30%;
+    
+    
+}
+
+.part2 .img1 img
+{
+    width: 100%;
+    
+}
+.content
+{
+    width: 90%;
+    overflow: hidden;
+}
+.content h3 
+{
+    text-align: left;
+}
+.content p 
+{
+    text-align: left;
+    
+}
+
+.part2 .content
+{
+    width: 100%;
+    overflow: hidden;
+}
+
+.clr
+{
+    clear: both;
+}
+
+
+
+
+
+.subtitle
+{
+    overflow: hidden;
+    background-color: #005580;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    padding-top: 20px ;
+    padding-bottom: 20px
+}
+
+
+
+
+
+.part3
+{
+    background-color:white;
+    text-align: left;
+    font-size: 25px;
+    text-decoration-color: black;
+    color: black;
+     width: 20%;
+    float: left;
+    margin: 30px 60px;
+}
+.part3 img
+{
+   
+    
+    width: 100%;
+    
+}
+
+.part3 button
+{
+    border: 0;
+    background-color:white;
+    color:#003366;
+    text-align: center;
+    font-size: 17px;
+    font-family:inherit;
+    padding: 30px;
+    
+   
+}
+.part3 button:hover
+{
+    border: 0;
+    background-color:white;
+    color:#80002a;
+    text-align: center;
+    padding-bottom: 30px;   
+}
+
+
+
+
+
+
+.part4
+{
+    
+    background-color:white;
+    text-align: left;
+    font-size: 25px;
+    text-decoration-color: black;
+    color: black;
+     width:100%;
+     overflow: hidden;
+     padding-left: 25px;  
+}
+
+.img4
+{
+    width: 60%;
+    float:right;
+    display:block;
+    padding-bottom: 30px;
+    
+    
+}
+
+.part4.img4 img
+{
+    width: 100%;
+    
+    
+}
+.contant4
+{
+    width: 40%;
+    
+    float: left;
+    padding-top: 15px;
+    
+}
+
+.contant4 h2
+{
+   text-align: left;
+    padding-top: 10px;
+    font-size: 50px;
+    color: #800040;
+}
+.contant4 p
+{
+   text-align: left;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.part4 button
+{
+   background-color: white;
+    color:#80002a ;
+    border: 0;
+    text-align: center;
+    border-radius: 4px;
+    padding: 20px 10px;
+    font-size: 20px;
+    font-family: 'Russo One', sans-serif;
+    
+}
+.part4 button:hover
+{
+    background-color: #003366;
+    color: whitesmoke;
+    float: left;
+    border: 0;
+    text-align: center;
+    border-radius: 4px;
+    padding: 20px 10px;
+    font-size: 20px;
+    font-family: 'Russo One', sans-serif;
+}
+.contant4 table
+{
+  padding-top: 10px;
+
+}
+
+
+
+
+.part5
+{
+    background-color: white;
+    padding-left: 20px;
+    color: #003366;
+    font-size: 25px;
+    overflow: hidden;
+    
+}
+.part5 img
+{
+   padding: 10px 45%; 
+    
+   
+}
+.part51
+{
+    float: left;
+    text-align: center;
+    width: 30%;
+    
+}
+.part51 p
+{
+   padding: 10px 10px; 
+    
+}
+
+
+
+.part6
+{
+    background-color: white;
+    padding-left: 20px;
+    color: black;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 20px;
+    width: 100%;
+    overflow: hidden;
+}
+.part61
+{
+    background-color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: #800040;
+    font-size: 45px;
+    text-align: center;
+    float: left;
+    display: block;
+    width: 15%;    
+}
+
+
+
+.part7
+{
+    background-image: url(Astronomie-Keynote-das-original.jpg);
+    background-size: 100% 100%;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    color: seashell;
+    text-align: center;
+    padding:300px 100px;
+    opacity: 0.9;
+}
+.part7 button
+{
+    border: 0;
+    background-color:#009999;
+    color:black;
+    text-align: center;
+    font-size: 17px;
+    font-family:cursive;
+    padding:20px 20px;     
+}
+.part7 button:hover
+{
+    border: 0;
+    background-color:white;
+    color:#80002a;
+    text-align: center;
+    padding-bottom: 20px 20px;   
+}
+
+
+.subtitle1
+{
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    color:#cc3399;
+    padding-top: 20px ;
+    padding-bottom: 20px
+}
+
+
+.part8
+{
+    
+    background-color:white;
+    text-align: left;
+    font-size: 25px;
+    text-decoration-color: black;
+    color: #00091a;
+     width:25%;
+   float:left;
+    padding: 30px 40px;
+       
+}
+
+
+.part9
+{
+  overflow: hidden; 
+}
+.part91 
+{
+   float: left;
+  width:33%;   
+}
+
+
+
+.part10
+{
+    background-color: #800040;
+    overflow: hidden;
+    padding: 40px 40px;
+}
+
+.part101
+{
+    float: left;
+    text-align: center;
+    font-family:cursive;
+    padding:20px 20px;
+    color: white;
+}
+
+
+.part102 button
+{
+    border: 0;
+    background-color:white;
+    color:black;
+    text-align: center;
+    font-size: 17px;
+    font-family:cursive;
+    float: right;
+    padding:20px 20px;     
+}
+.part102 button:hover
+{
+    border: 0;
+    background-color:white;
+    color:#800040;
+    text-align: center;
+    float: right;
+    padding-bottom: 20px 20px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
